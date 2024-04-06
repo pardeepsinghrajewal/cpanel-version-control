@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/debugld2/public_html/pardeep/repositories/cpanel-version-control 
+    - /bin/cp * $DEPLOYPATH
+    
+
+
+
+
